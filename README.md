@@ -51,8 +51,5 @@ Check out the [demo](http://bit.ly/demo_mod_run) to see the project in action.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This "Features" section briefly describes the main functionalities of your project. Feel free to expand or modify it based on the specific features you want to highlight.
 
 ---
