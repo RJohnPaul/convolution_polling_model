@@ -18,6 +18,12 @@ To run this project, you'll need to have the following Python modules installed:
 - **Matplotlib** - A plotting library for creating visualizations.
   - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 
+## Features
+
+- **Image Convolution:** Apply convolutional filters to detect edges and enhance features in the image.
+
+- **Max Pooling:** Implement a Max Pooling model to collect the best features and create a smaller, representative image.
+
 ## Demo
 
 Check out the [demo](http://bit.ly/demo_mod_run) to see the project in action.
@@ -45,5 +51,8 @@ Check out the [demo](http://bit.ly/demo_mod_run) to see the project in action.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+This "Features" section briefly describes the main functionalities of your project. Feel free to expand or modify it based on the specific features you want to highlight.
 
 ---
