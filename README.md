@@ -1,5 +1,18 @@
 # convolution_polling_model
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 This project demonstrates basic image processing techniques using convolutional filters and includes the implementation of a Max Pooling model in Python. The script utilizes popular libraries such as OpenCV, NumPy, and Matplotlib.
 
 ## Modules Required
@@ -51,5 +64,11 @@ Check out the [demo](http://bit.ly/demo_mod_run) to see the project in action.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+  </br>
+</div>
 
 ---
